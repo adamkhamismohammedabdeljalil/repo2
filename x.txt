@@ -1,2 +1,4 @@
 this a text file
 it will be used to restore commits
+style sheet added
+a few lines were added to the html file
